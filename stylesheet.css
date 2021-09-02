@@ -16,3 +16,16 @@ body{
 #objective-list {
     color: #f2f2f2;
 }
+
+.photo-text{
+    height: auto;
+    max-width: 95%;
+    left: 0px;
+    right: 0px;
+}
+#myImage {
+    width: 95%;
+    height: auto;
+    left: 0px;
+    right: 0px;
+}
