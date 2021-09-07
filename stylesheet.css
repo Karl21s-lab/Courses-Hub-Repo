@@ -55,10 +55,13 @@ body{
     position:fixed;
     width: 100%;
 }
-#navLinks{
+#navLinks{/*Navigation bar, list-style-type removes the bullet point marks.*/
     color: #f2f2f2;
     text-transform: capitalize;
     font-size: 20px;
-    text-align: center;
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+
 
 }
