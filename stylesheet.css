@@ -4,6 +4,7 @@ h1 {
     text-align: center;
     color: #f2f2f2;
     font-size: 60px;
+    padding: 65px;
 
 }
 body{
@@ -52,13 +53,28 @@ body{
     border-radius: 15px;
 }
 
-#navLinks{/*Navigation bar, list-style-type removes the bullet point marks.*/
+ul{
     color: #f2f2f2;
     text-transform: capitalize;
-    font-size: 20px;
+    font-size: 40px;
+    position: fixed;
+    font-family: 'Bebas Neue', cursive;
     list-style-type: none; 
     margin: 0;
     padding: 0;
 
+}
 
+li{
+    float: left;
+    text-align: center;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    text-align: center;
+}
+#wtf{
+    text-align: center;
 }
