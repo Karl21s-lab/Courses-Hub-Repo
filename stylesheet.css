@@ -42,7 +42,7 @@ body{
     text-align: center;
     margin-bottom: 250px;
 }
-#myImage {
+#myImage { /*Image changes on the main page, border, border rounding and box.*/
     width: 85%;
     height: auto;
     text-align: center;
@@ -51,10 +51,7 @@ body{
     margin-bottom: 150px;
     border-radius: 15px;
 }
-#navbar{
-    position:fixed;
-    width: 100%;
-}
+
 #navLinks{/*Navigation bar, list-style-type removes the bullet point marks.*/
     color: #f2f2f2;
     text-transform: capitalize;
